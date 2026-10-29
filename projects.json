@@ -19,5 +19,12 @@
     "category": "research",
     "summary": "A paper-style project at the intersection of audio ML and loudspeaker DSP.",
     "link": ""
+  },
+  {
+    "title": "Financial Planner",
+    "status": "planned",
+    "category": "software",
+    "summary": "Web app to control and track my finances",
+    "link": ""
   }
 ]
