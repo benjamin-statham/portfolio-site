@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Portfolio Site",
+    "status": "in progress",
+    "category": "software",
+    "summary": "A personal front door to my work, built with HTML and GitHub Pages.",
+    "link": "https://github.com/YOUR-USERNAME/portfolio-site"
+  },
+  {
+    "title": "Financial Agent",
+    "status": "planned",
+    "category": "AI",
+    "summary": "An LLM agent that makes paper-trading decisions, benchmarked against buy-and-hold.",
+    "link": ""
+  },
+  {
+    "title": "Audio ML Research",
+    "status": "planned",
+    "category": "research",
+    "summary": "A paper-style project at the intersection of audio ML and loudspeaker DSP.",
+    "link": ""
+  }
+]
